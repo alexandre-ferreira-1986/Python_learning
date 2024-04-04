@@ -1,5 +1,9 @@
 ## <span style="color:#0070c0">03 - Desenvolvendo BeeHoney - POO</span>
 
+<img src="https://github.com/alexandre-ferreira-1986/Python_learning/blob/main/Pygame/BeeHoney/assets/print_beehoney.png" 
+     width="150" 
+     height="300" />
+
 ### 02 - Criando um Obj mais inteligente
 
 - Nós criamos o  "self.group": Recebe uma forma de armazenar um objeto. Cada grupo pode ter diversos elementos nele.
