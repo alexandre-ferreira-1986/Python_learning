@@ -1,8 +1,8 @@
 ## <span style="color:#0070c0">03 - Desenvolvendo BeeHoney - POO</span>
 
 <img src="https://github.com/alexandre-ferreira-1986/Python_learning/blob/main/Pygame/BeeHoney/assets/print_beehoney.png" 
-     width="150" 
-     height="300" />
+     width="200" 
+     height="350" />
 
 ### 02 - Criando um Obj mais inteligente
 
